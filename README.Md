@@ -1,0 +1,1 @@
+A simple code I wrote because I was bored, nothing much to explain. The problem cosists basically in creating a spreadsheet with the work schendule for 7 workers, for the month of august, where Júnior should only work on daytime if the day is even and or at night if night is odd.
